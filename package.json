@@ -1,0 +1,14 @@
+{
+  "name": "graph_ql_example",
+  "version": "1.0.0",
+  "description": "playground for graphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunle Ogunjimi",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.13.1"
+  }
+}
