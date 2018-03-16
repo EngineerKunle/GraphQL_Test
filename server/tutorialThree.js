@@ -2,6 +2,8 @@
  * This is an example with express and graphQl
  * 
  * https://scotch.io/@codediger/build-a-simple-graphql-api-server-with-express-and-nodejs
+ * 
+ * https://www.apollographql.com/docs/graphql-tools/generate-schema.html
  */
 const express     = require('express'),
 app               = express(),
